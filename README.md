@@ -20,7 +20,7 @@ Do not count swap(array, posi, posj) if posi == posj
 Print out the molecules and also report the number of swaps used during Quicksort
 
 # Input
-![image](https://github.com/middleyuan/infix-maze/blob/master/maze.JPG)
+![image](https://github.com/middleyuan/QuickSort_for_Molecules/blob/master/input.JPG)
 
 # Output
-![image](https://github.com/middleyuan/infix-maze/blob/master/maze.JPG)
+![image](https://github.com/middleyuan/QuickSort_for_Molecules/blob/master/output.JPG)
